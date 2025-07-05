@@ -1,1 +1,1 @@
-All the shapes are described in shared folder
+All the shapes are described in Test/shared folder
